@@ -1,0 +1,2 @@
+data<-read.csv("eco_dev_data.csv")
+data

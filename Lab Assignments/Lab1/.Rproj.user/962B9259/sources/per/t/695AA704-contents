@@ -1,0 +1,10 @@
+library(aplpack)
+
+data<-read.csv("Wine_data.csv")
+data[,1:14]
+
+
+faces(data[,2:14])
+
+unique(data[,1])
+
